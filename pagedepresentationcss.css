@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+  <title>Untitled</title>
+</head>
+
+
+
+@font-face{
+
+	font-family: 'AlexBrush';
+	src:url('alexbrush/AlexBrush-Regular.ttf');
+	font-family: 'Shrikhand', cursive;
+}
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body
+{
+background-image: url("background.jpg");
+background-repeat : no-repeat;
+background-position:center ;
+background-attachment : fixed  ;
+background-size :100% ;
+}
+<body>
+
+</body>
+
+</html>a:link {
+  color: Blue;
+}
+
+.T1{
+	text-align: center;
+	color:red;
+	text-shadow: 2px 2px 4px black;
+	border:3px inset;
+	border-radius: 10px;
+	border-radius: 10px 15px 20px 5px;
+	background-image: url("background.jpg");
+	box-shadow: 5px 5px 0px black;
+	width:98%;
+	margin-left: auto;
+	margin-right:auto;
+	margin:0 auto
+}
+.M1{
+	text-align: center;
+	color:red;
+	text-shadow: 2px 2px 4px black;
+	border:3px inset;
+	border-radius: 10px;
+	border-radius: 20px 20px 20px 20px;
+	background-color:transparent;
+	box-shadow: 5px 5px 0px black;
+	width:45%;
+	margin-left: auto;
+	margin-right:auto;
+	margin:0 auto
+}
+.M2{
+	text-align: center;
+	color:red;
+	text-shadow: 2px 2px 4px black;
+	border:3px inset;
+	border-radius: 20px;
+	border-radius: 20px 20px 20px 20px;
+	background-color:transparent;
+	box-shadow: 5px 5px 0px black;
+	width:15%;
+    height: 15 % ;
+    margin-bottom: auto;
+	margin-left: auto;
+	margin-right:auto;
+	margin:0
+}
+td,th{
+ 	border: 1px solid white;
+    background-color: grey ;
+    color :
+ }
